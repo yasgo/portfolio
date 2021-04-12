@@ -9,7 +9,7 @@ function Index() {
             </figure>
             <article>
                 <h1>YASIN BURAK KALKAN</h1>
-                <h2>Front-End Developer at Medyasoft. from Turkey.</h2>
+                <h2>Senior Front-End Developer at Formalis. from Turkey.</h2>
             </article>
         </section>
     )
